@@ -1,0 +1,5 @@
+h1. This is the data for my blog
+
+"My Blog":http://saturn.yoozi.org
+
+It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site and served by "Github Pages":http://pages.github.com
